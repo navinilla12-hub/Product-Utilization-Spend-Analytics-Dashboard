@@ -1,0 +1,1001 @@
+Department,Product,Usage,Unit_Cost,Total_Cost,Cost_Per_Unit
+Surgery,Masks,358,2,716,2.0
+Surgery,IV Kits,81,50,4050,50.0
+ER,Bandages,112,3,336,3.0
+ICU,IV Kits,224,50,11200,50.0
+Surgery,IV Kits,97,50,4850,50.0
+ER,Masks,369,2,738,2.0
+Pharmacy,IV Kits,159,50,7950,50.0
+ER,Syringes,353,10,3530,10.0
+Pharmacy,Syringes,201,10,2010,10.0
+Pharmacy,Bandages,170,3,510,3.0
+Pharmacy,Syringes,31,10,310,10.0
+ER,Masks,354,2,708,2.0
+ER,IV Kits,68,50,3400,50.0
+Surgery,Syringes,485,10,4850,10.0
+Pharmacy,IV Kits,373,50,18650,50.0
+Surgery,Masks,329,2,658,2.0
+ER,IV Kits,494,50,24700,50.0
+Surgery,Bandages,338,3,1014,3.0
+Surgery,Syringes,397,10,3970,10.0
+ER,Masks,23,2,46,2.0
+ICU,Syringes,274,10,2740,10.0
+ICU,Bandages,395,3,1185,3.0
+Pharmacy,Masks,376,2,752,2.0
+Pharmacy,Masks,273,2,546,2.0
+Surgery,IV Kits,215,50,10750,50.0
+ER,Masks,59,2,118,2.0
+Pharmacy,Masks,11,2,22,2.0
+ICU,Syringes,269,10,2690,10.0
+ICU,Bandages,200,3,600,3.0
+ICU,Syringes,53,10,530,10.0
+ICU,Syringes,455,10,4550,10.0
+Pharmacy,Masks,199,2,398,2.0
+Pharmacy,Bandages,217,3,651,3.0
+ER,Syringes,376,10,3760,10.0
+ER,Syringes,226,10,2260,10.0
+Pharmacy,Masks,389,2,778,2.0
+ER,Gloves,166,5,830,5.0
+Surgery,Bandages,74,3,222,3.0
+ER,Gloves,353,5,1765,5.0
+ER,Masks,145,2,290,2.0
+Pharmacy,IV Kits,90,50,4500,50.0
+Pharmacy,IV Kits,428,50,21400,50.0
+ER,IV Kits,270,50,13500,50.0
+ICU,Syringes,50,10,500,10.0
+Pharmacy,Gloves,337,5,1685,5.0
+Pharmacy,Syringes,42,10,420,10.0
+Pharmacy,Bandages,108,3,324,3.0
+Pharmacy,IV Kits,44,50,2200,50.0
+ER,IV Kits,110,50,5500,50.0
+Surgery,IV Kits,266,50,13300,50.0
+ER,Syringes,264,10,2640,10.0
+ICU,IV Kits,402,50,20100,50.0
+Surgery,Syringes,51,10,510,10.0
+Pharmacy,Bandages,188,3,564,3.0
+Surgery,Gloves,61,5,305,5.0
+ER,Masks,231,2,462,2.0
+ER,Bandages,152,3,456,3.0
+Surgery,Bandages,45,3,135,3.0
+ER,IV Kits,252,50,12600,50.0
+ICU,Masks,75,2,150,2.0
+ICU,Bandages,71,3,213,3.0
+ER,Bandages,143,3,429,3.0
+Pharmacy,Masks,117,2,234,2.0
+Pharmacy,Masks,295,2,590,2.0
+ICU,IV Kits,137,50,6850,50.0
+ICU,Masks,482,2,964,2.0
+Surgery,Gloves,394,5,1970,5.0
+ER,IV Kits,455,50,22750,50.0
+ER,Masks,470,2,940,2.0
+ER,IV Kits,368,50,18400,50.0
+ICU,IV Kits,146,50,7300,50.0
+ICU,Bandages,234,3,702,3.0
+Surgery,Syringes,181,10,1810,10.0
+Pharmacy,IV Kits,383,50,19150,50.0
+Pharmacy,Gloves,189,5,945,5.0
+ER,Gloves,451,5,2255,5.0
+Pharmacy,Masks,304,2,608,2.0
+ICU,IV Kits,122,50,6100,50.0
+ER,Gloves,449,5,2245,5.0
+ER,IV Kits,122,50,6100,50.0
+ICU,Syringes,229,10,2290,10.0
+ICU,Bandages,233,3,699,3.0
+ER,Gloves,412,5,2060,5.0
+ICU,Syringes,62,10,620,10.0
+Pharmacy,Syringes,169,10,1690,10.0
+ICU,Masks,448,2,896,2.0
+Surgery,IV Kits,410,50,20500,50.0
+Surgery,Bandages,381,3,1143,3.0
+ICU,IV Kits,249,50,12450,50.0
+Pharmacy,Gloves,210,5,1050,5.0
+Pharmacy,IV Kits,335,50,16750,50.0
+Pharmacy,Bandages,268,3,804,3.0
+Pharmacy,Masks,452,2,904,2.0
+Pharmacy,IV Kits,355,50,17750,50.0
+Surgery,IV Kits,157,50,7850,50.0
+Pharmacy,Masks,498,2,996,2.0
+ER,Syringes,369,10,3690,10.0
+ER,IV Kits,485,50,24250,50.0
+ER,Gloves,443,5,2215,5.0
+Surgery,Syringes,108,10,1080,10.0
+Surgery,Masks,153,2,306,2.0
+ICU,Gloves,69,5,345,5.0
+ER,Syringes,394,10,3940,10.0
+Pharmacy,Masks,462,2,924,2.0
+ER,IV Kits,18,50,900,50.0
+ER,IV Kits,156,50,7800,50.0
+Pharmacy,IV Kits,413,50,20650,50.0
+Pharmacy,Gloves,417,5,2085,5.0
+Pharmacy,IV Kits,122,50,6100,50.0
+Pharmacy,Masks,431,2,862,2.0
+Pharmacy,Masks,263,2,526,2.0
+Surgery,Gloves,108,5,540,5.0
+ER,Bandages,411,3,1233,3.0
+Pharmacy,Syringes,203,10,2030,10.0
+ICU,IV Kits,217,50,10850,50.0
+ER,Gloves,493,5,2465,5.0
+ER,Masks,298,2,596,2.0
+ICU,Bandages,313,3,939,3.0
+Pharmacy,IV Kits,410,50,20500,50.0
+Pharmacy,Gloves,185,5,925,5.0
+Pharmacy,IV Kits,380,50,19000,50.0
+ICU,Bandages,60,3,180,3.0
+ICU,IV Kits,36,50,1800,50.0
+ICU,Bandages,295,3,885,3.0
+ER,Masks,376,2,752,2.0
+Pharmacy,Gloves,462,5,2310,5.0
+Pharmacy,Bandages,313,3,939,3.0
+Surgery,Masks,44,2,88,2.0
+Pharmacy,Gloves,26,5,130,5.0
+Pharmacy,Masks,167,2,334,2.0
+ER,Bandages,15,3,45,3.0
+Surgery,Masks,242,2,484,2.0
+ER,Bandages,311,3,933,3.0
+ER,IV Kits,197,50,9850,50.0
+ER,Masks,200,2,400,2.0
+ER,Bandages,425,3,1275,3.0
+Surgery,Gloves,265,5,1325,5.0
+Surgery,Syringes,290,10,2900,10.0
+ICU,Syringes,332,10,3320,10.0
+Pharmacy,Syringes,297,10,2970,10.0
+Surgery,Syringes,136,10,1360,10.0
+Surgery,Syringes,395,10,3950,10.0
+ICU,Gloves,113,5,565,5.0
+ER,Gloves,308,5,1540,5.0
+ICU,Bandages,179,3,537,3.0
+Surgery,Syringes,364,10,3640,10.0
+ICU,Gloves,417,5,2085,5.0
+ER,Masks,400,2,800,2.0
+ER,Masks,182,2,364,2.0
+Pharmacy,Gloves,273,5,1365,5.0
+Pharmacy,Masks,380,2,760,2.0
+Surgery,Masks,363,2,726,2.0
+ICU,IV Kits,162,50,8100,50.0
+ICU,Bandages,159,3,477,3.0
+ICU,Syringes,351,10,3510,10.0
+ER,Masks,179,2,358,2.0
+ICU,IV Kits,453,50,22650,50.0
+ER,Gloves,273,5,1365,5.0
+ER,Masks,117,2,234,2.0
+ER,Masks,271,2,542,2.0
+ER,Masks,359,2,718,2.0
+Surgery,IV Kits,320,50,16000,50.0
+Pharmacy,Masks,153,2,306,2.0
+ER,Syringes,133,10,1330,10.0
+ICU,IV Kits,154,50,7700,50.0
+Pharmacy,IV Kits,101,50,5050,50.0
+ICU,Syringes,238,10,2380,10.0
+ICU,Bandages,327,3,981,3.0
+Surgery,Gloves,405,5,2025,5.0
+ER,Gloves,67,5,335,5.0
+ICU,Gloves,248,5,1240,5.0
+ICU,Gloves,497,5,2485,5.0
+ER,Bandages,394,3,1182,3.0
+Pharmacy,Bandages,496,3,1488,3.0
+Pharmacy,Bandages,287,3,861,3.0
+ER,IV Kits,85,50,4250,50.0
+ICU,IV Kits,494,50,24700,50.0
+ICU,Gloves,294,5,1470,5.0
+ICU,Masks,78,2,156,2.0
+Surgery,Gloves,103,5,515,5.0
+ICU,Masks,462,2,924,2.0
+Pharmacy,Syringes,483,10,4830,10.0
+Pharmacy,Bandages,48,3,144,3.0
+Pharmacy,Gloves,263,5,1315,5.0
+ICU,Bandages,32,3,96,3.0
+ICU,Syringes,255,10,2550,10.0
+ER,Masks,299,2,598,2.0
+Pharmacy,Syringes,259,10,2590,10.0
+Surgery,Syringes,105,10,1050,10.0
+ER,Bandages,13,3,39,3.0
+Pharmacy,Syringes,485,10,4850,10.0
+Pharmacy,IV Kits,349,50,17450,50.0
+Pharmacy,Masks,187,2,374,2.0
+Surgery,Masks,42,2,84,2.0
+ER,Bandages,188,3,564,3.0
+Surgery,Bandages,277,3,831,3.0
+Surgery,Gloves,426,5,2130,5.0
+Pharmacy,Syringes,52,10,520,10.0
+Pharmacy,Bandages,406,3,1218,3.0
+Pharmacy,Syringes,262,10,2620,10.0
+Surgery,Syringes,44,10,440,10.0
+Surgery,Gloves,99,5,495,5.0
+Pharmacy,Bandages,419,3,1257,3.0
+ICU,Syringes,427,10,4270,10.0
+Surgery,Gloves,400,5,2000,5.0
+Pharmacy,Syringes,123,10,1230,10.0
+ER,IV Kits,422,50,21100,50.0
+Pharmacy,Masks,226,2,452,2.0
+ER,Bandages,258,3,774,3.0
+Pharmacy,Syringes,366,10,3660,10.0
+ER,IV Kits,186,50,9300,50.0
+Surgery,Masks,475,2,950,2.0
+ER,Bandages,277,3,831,3.0
+ER,Bandages,288,3,864,3.0
+ER,IV Kits,370,50,18500,50.0
+ICU,Gloves,378,5,1890,5.0
+ICU,Masks,377,2,754,2.0
+ER,Bandages,196,3,588,3.0
+Surgery,Gloves,109,5,545,5.0
+Pharmacy,Bandages,242,3,726,3.0
+Surgery,Masks,274,2,548,2.0
+Surgery,Masks,215,2,430,2.0
+Surgery,Masks,348,2,696,2.0
+ICU,Bandages,78,3,234,3.0
+Surgery,Masks,34,2,68,2.0
+Pharmacy,IV Kits,478,50,23900,50.0
+Pharmacy,Bandages,160,3,480,3.0
+Pharmacy,Gloves,48,5,240,5.0
+ER,Bandages,51,3,153,3.0
+ICU,Syringes,142,10,1420,10.0
+Surgery,Bandages,244,3,732,3.0
+Surgery,Syringes,248,10,2480,10.0
+Pharmacy,Gloves,83,5,415,5.0
+ICU,Masks,410,2,820,2.0
+ER,Bandages,177,3,531,3.0
+ICU,Gloves,443,5,2215,5.0
+Surgery,Syringes,203,10,2030,10.0
+ER,Bandages,174,3,522,3.0
+ICU,IV Kits,145,50,7250,50.0
+Pharmacy,Bandages,330,3,990,3.0
+ICU,Masks,154,2,308,2.0
+Surgery,Gloves,310,5,1550,5.0
+Pharmacy,Masks,79,2,158,2.0
+Pharmacy,IV Kits,454,50,22700,50.0
+Pharmacy,IV Kits,211,50,10550,50.0
+ICU,IV Kits,48,50,2400,50.0
+ICU,IV Kits,182,50,9100,50.0
+ER,Syringes,229,10,2290,10.0
+ICU,Syringes,157,10,1570,10.0
+Pharmacy,Bandages,392,3,1176,3.0
+ER,Gloves,396,5,1980,5.0
+ER,Masks,199,2,398,2.0
+ER,Masks,378,2,756,2.0
+ER,Gloves,431,5,2155,5.0
+ER,Syringes,53,10,530,10.0
+ER,Bandages,326,3,978,3.0
+Surgery,Bandages,89,3,267,3.0
+ICU,Bandages,212,3,636,3.0
+Pharmacy,Bandages,173,3,519,3.0
+Surgery,IV Kits,29,50,1450,50.0
+ER,Syringes,56,10,560,10.0
+ER,Gloves,23,5,115,5.0
+Surgery,Gloves,382,5,1910,5.0
+ICU,IV Kits,153,50,7650,50.0
+Surgery,Gloves,468,5,2340,5.0
+Pharmacy,Syringes,233,10,2330,10.0
+Pharmacy,Masks,417,2,834,2.0
+Pharmacy,Bandages,17,3,51,3.0
+ICU,Masks,173,2,346,2.0
+ICU,Syringes,325,10,3250,10.0
+ICU,Masks,229,2,458,2.0
+ER,Gloves,237,5,1185,5.0
+Pharmacy,IV Kits,456,50,22800,50.0
+ER,Gloves,426,5,2130,5.0
+ER,Masks,470,2,940,2.0
+Pharmacy,Bandages,406,3,1218,3.0
+ICU,IV Kits,262,50,13100,50.0
+ICU,Syringes,380,10,3800,10.0
+Pharmacy,Bandages,312,3,936,3.0
+ER,Syringes,19,10,190,10.0
+Pharmacy,Syringes,260,10,2600,10.0
+ER,Bandages,128,3,384,3.0
+Pharmacy,Gloves,383,5,1915,5.0
+ER,Syringes,233,10,2330,10.0
+Surgery,Gloves,276,5,1380,5.0
+ER,Syringes,72,10,720,10.0
+ER,IV Kits,292,50,14600,50.0
+ER,Bandages,426,3,1278,3.0
+ICU,Gloves,108,5,540,5.0
+Surgery,Gloves,414,5,2070,5.0
+Pharmacy,Masks,474,2,948,2.0
+ER,Bandages,367,3,1101,3.0
+Surgery,Bandages,32,3,96,3.0
+ER,Bandages,174,3,522,3.0
+ICU,Syringes,92,10,920,10.0
+ER,Bandages,87,3,261,3.0
+ER,Gloves,60,5,300,5.0
+ER,Bandages,269,3,807,3.0
+ICU,Gloves,378,5,1890,5.0
+Pharmacy,Syringes,357,10,3570,10.0
+Surgery,Syringes,259,10,2590,10.0
+ICU,IV Kits,388,50,19400,50.0
+ICU,Masks,458,2,916,2.0
+ICU,Masks,398,2,796,2.0
+ICU,IV Kits,322,50,16100,50.0
+ER,Bandages,350,3,1050,3.0
+ICU,Syringes,84,10,840,10.0
+Surgery,Masks,235,2,470,2.0
+ICU,Syringes,107,10,1070,10.0
+ICU,IV Kits,444,50,22200,50.0
+Surgery,Syringes,317,10,3170,10.0
+ER,Gloves,481,5,2405,5.0
+Surgery,Masks,39,2,78,2.0
+Surgery,Syringes,60,10,600,10.0
+ER,Bandages,294,3,882,3.0
+Pharmacy,Syringes,193,10,1930,10.0
+ER,Syringes,282,10,2820,10.0
+Pharmacy,Masks,481,2,962,2.0
+ER,Syringes,271,10,2710,10.0
+ER,Syringes,214,10,2140,10.0
+ICU,IV Kits,52,50,2600,50.0
+Pharmacy,IV Kits,380,50,19000,50.0
+Surgery,Gloves,160,5,800,5.0
+Surgery,IV Kits,383,50,19150,50.0
+Pharmacy,Masks,369,2,738,2.0
+Pharmacy,Gloves,204,5,1020,5.0
+Pharmacy,IV Kits,164,50,8200,50.0
+ER,Syringes,70,10,700,10.0
+ICU,IV Kits,412,50,20600,50.0
+ER,Bandages,475,3,1425,3.0
+Pharmacy,Syringes,326,10,3260,10.0
+ICU,Bandages,335,3,1005,3.0
+ER,Bandages,242,3,726,3.0
+Pharmacy,Syringes,55,10,550,10.0
+ICU,Gloves,87,5,435,5.0
+ICU,Bandages,420,3,1260,3.0
+ER,Syringes,258,10,2580,10.0
+Surgery,Gloves,223,5,1115,5.0
+Surgery,IV Kits,328,50,16400,50.0
+Pharmacy,Bandages,346,3,1038,3.0
+ICU,Masks,266,2,532,2.0
+Pharmacy,Gloves,364,5,1820,5.0
+ER,Masks,216,2,432,2.0
+Surgery,Syringes,37,10,370,10.0
+Surgery,Syringes,374,10,3740,10.0
+ICU,IV Kits,321,50,16050,50.0
+Surgery,IV Kits,120,50,6000,50.0
+Surgery,IV Kits,248,50,12400,50.0
+Pharmacy,Bandages,283,3,849,3.0
+ICU,IV Kits,380,50,19000,50.0
+Surgery,Gloves,128,5,640,5.0
+ER,Masks,211,2,422,2.0
+Surgery,Gloves,282,5,1410,5.0
+Surgery,Syringes,135,10,1350,10.0
+Pharmacy,Gloves,154,5,770,5.0
+ER,Masks,34,2,68,2.0
+Pharmacy,Syringes,76,10,760,10.0
+ER,Bandages,155,3,465,3.0
+Surgery,Masks,120,2,240,2.0
+ICU,Syringes,120,10,1200,10.0
+Pharmacy,Gloves,245,5,1225,5.0
+Surgery,Syringes,434,10,4340,10.0
+ER,Masks,291,2,582,2.0
+Pharmacy,Syringes,452,10,4520,10.0
+Pharmacy,IV Kits,374,50,18700,50.0
+ICU,Bandages,386,3,1158,3.0
+ER,Bandages,159,3,477,3.0
+ER,Masks,359,2,718,2.0
+Surgery,Gloves,256,5,1280,5.0
+Surgery,IV Kits,40,50,2000,50.0
+Pharmacy,Bandages,45,3,135,3.0
+Pharmacy,Syringes,477,10,4770,10.0
+Pharmacy,IV Kits,13,50,650,50.0
+Surgery,Gloves,103,5,515,5.0
+Pharmacy,IV Kits,71,50,3550,50.0
+ER,Syringes,344,10,3440,10.0
+Surgery,Syringes,444,10,4440,10.0
+ER,Masks,142,2,284,2.0
+ICU,Syringes,127,10,1270,10.0
+Pharmacy,IV Kits,221,50,11050,50.0
+ER,Masks,122,2,244,2.0
+Pharmacy,Gloves,99,5,495,5.0
+ICU,Bandages,391,3,1173,3.0
+Surgery,Masks,342,2,684,2.0
+Surgery,IV Kits,170,50,8500,50.0
+ICU,Syringes,19,10,190,10.0
+ER,Syringes,181,10,1810,10.0
+ICU,Bandages,177,3,531,3.0
+ICU,Masks,330,2,660,2.0
+Surgery,Bandages,338,3,1014,3.0
+ER,Gloves,468,5,2340,5.0
+Surgery,IV Kits,103,50,5150,50.0
+Surgery,Gloves,78,5,390,5.0
+ICU,Masks,245,2,490,2.0
+ICU,Bandages,385,3,1155,3.0
+Surgery,Gloves,427,5,2135,5.0
+Pharmacy,IV Kits,44,50,2200,50.0
+ER,Masks,329,2,658,2.0
+ER,IV Kits,370,50,18500,50.0
+ER,Masks,295,2,590,2.0
+Surgery,Bandages,174,3,522,3.0
+ER,IV Kits,388,50,19400,50.0
+ICU,Syringes,71,10,710,10.0
+Pharmacy,Gloves,246,5,1230,5.0
+ICU,Gloves,411,5,2055,5.0
+Pharmacy,IV Kits,134,50,6700,50.0
+ICU,Gloves,32,5,160,5.0
+Surgery,Gloves,162,5,810,5.0
+ER,Gloves,459,5,2295,5.0
+ICU,Bandages,113,3,339,3.0
+Pharmacy,IV Kits,48,50,2400,50.0
+Surgery,IV Kits,400,50,20000,50.0
+Surgery,Syringes,457,10,4570,10.0
+Pharmacy,Bandages,298,3,894,3.0
+Pharmacy,IV Kits,429,50,21450,50.0
+ER,Gloves,106,5,530,5.0
+ER,Bandages,420,3,1260,3.0
+Surgery,Gloves,263,5,1315,5.0
+Pharmacy,Syringes,19,10,190,10.0
+ER,IV Kits,339,50,16950,50.0
+ER,Bandages,168,3,504,3.0
+Surgery,Masks,374,2,748,2.0
+Pharmacy,Masks,193,2,386,2.0
+Surgery,Bandages,145,3,435,3.0
+ER,Bandages,56,3,168,3.0
+Pharmacy,Masks,182,2,364,2.0
+ICU,IV Kits,104,50,5200,50.0
+Surgery,IV Kits,429,50,21450,50.0
+Pharmacy,Syringes,308,10,3080,10.0
+Surgery,Bandages,157,3,471,3.0
+Surgery,Syringes,369,10,3690,10.0
+ICU,Syringes,311,10,3110,10.0
+Surgery,Masks,227,2,454,2.0
+ER,Syringes,482,10,4820,10.0
+ER,Masks,180,2,360,2.0
+Pharmacy,Masks,365,2,730,2.0
+Pharmacy,Masks,142,2,284,2.0
+Pharmacy,Bandages,337,3,1011,3.0
+Surgery,Syringes,101,10,1010,10.0
+Surgery,Syringes,402,10,4020,10.0
+ICU,IV Kits,38,50,1900,50.0
+ICU,Gloves,223,5,1115,5.0
+Surgery,Gloves,311,5,1555,5.0
+ER,Bandages,355,3,1065,3.0
+ICU,Masks,191,2,382,2.0
+Surgery,Gloves,10,5,50,5.0
+Surgery,IV Kits,433,50,21650,50.0
+Surgery,Bandages,440,3,1320,3.0
+ER,Bandages,146,3,438,3.0
+ICU,Masks,322,2,644,2.0
+ER,Syringes,434,10,4340,10.0
+Surgery,Masks,34,2,68,2.0
+ICU,IV Kits,303,50,15150,50.0
+ICU,Syringes,484,10,4840,10.0
+ICU,IV Kits,26,50,1300,50.0
+Pharmacy,IV Kits,452,50,22600,50.0
+Pharmacy,IV Kits,188,50,9400,50.0
+ICU,Gloves,464,5,2320,5.0
+Pharmacy,Bandages,353,3,1059,3.0
+ER,Gloves,294,5,1470,5.0
+Surgery,IV Kits,159,50,7950,50.0
+ICU,Masks,379,2,758,2.0
+ER,Gloves,464,5,2320,5.0
+ER,Masks,370,2,740,2.0
+ER,Masks,127,2,254,2.0
+ICU,Masks,72,2,144,2.0
+ER,Gloves,336,5,1680,5.0
+ER,Bandages,487,3,1461,3.0
+Surgery,IV Kits,388,50,19400,50.0
+Pharmacy,IV Kits,327,50,16350,50.0
+Pharmacy,Bandages,314,3,942,3.0
+ER,Bandages,295,3,885,3.0
+Pharmacy,IV Kits,27,50,1350,50.0
+ER,IV Kits,184,50,9200,50.0
+ICU,Syringes,485,10,4850,10.0
+ER,Syringes,231,10,2310,10.0
+ICU,IV Kits,328,50,16400,50.0
+Pharmacy,Gloves,273,5,1365,5.0
+ER,IV Kits,297,50,14850,50.0
+ICU,Syringes,476,10,4760,10.0
+ICU,Syringes,389,10,3890,10.0
+ER,Masks,297,2,594,2.0
+ICU,Bandages,17,3,51,3.0
+ER,Gloves,256,5,1280,5.0
+Surgery,IV Kits,264,50,13200,50.0
+ER,Gloves,248,5,1240,5.0
+ER,IV Kits,60,50,3000,50.0
+ER,Masks,273,2,546,2.0
+ICU,IV Kits,105,50,5250,50.0
+Pharmacy,IV Kits,409,50,20450,50.0
+Pharmacy,Masks,174,2,348,2.0
+ICU,Bandages,407,3,1221,3.0
+Surgery,Syringes,16,10,160,10.0
+ICU,Gloves,160,5,800,5.0
+ER,IV Kits,121,50,6050,50.0
+ER,IV Kits,45,50,2250,50.0
+ER,Masks,91,2,182,2.0
+ICU,Gloves,312,5,1560,5.0
+ER,Masks,20,2,40,2.0
+ICU,Syringes,204,10,2040,10.0
+Surgery,Masks,29,2,58,2.0
+ER,Bandages,431,3,1293,3.0
+Pharmacy,Gloves,235,5,1175,5.0
+ER,Masks,364,2,728,2.0
+Pharmacy,Syringes,351,10,3510,10.0
+Pharmacy,Gloves,211,5,1055,5.0
+ICU,IV Kits,224,50,11200,50.0
+Pharmacy,Gloves,379,5,1895,5.0
+Surgery,Gloves,23,5,115,5.0
+ER,Syringes,246,10,2460,10.0
+ER,Gloves,255,5,1275,5.0
+ICU,IV Kits,13,50,650,50.0
+ICU,Syringes,38,10,380,10.0
+ER,Syringes,224,10,2240,10.0
+ER,IV Kits,335,50,16750,50.0
+ICU,Bandages,51,3,153,3.0
+Pharmacy,Gloves,431,5,2155,5.0
+ICU,Gloves,174,5,870,5.0
+ER,Syringes,85,10,850,10.0
+Surgery,Bandages,371,3,1113,3.0
+ICU,Bandages,36,3,108,3.0
+ER,IV Kits,177,50,8850,50.0
+ICU,Masks,246,2,492,2.0
+ER,Bandages,464,3,1392,3.0
+ICU,Bandages,410,3,1230,3.0
+ICU,Bandages,485,3,1455,3.0
+ICU,Syringes,55,10,550,10.0
+Pharmacy,Syringes,319,10,3190,10.0
+Surgery,Gloves,316,5,1580,5.0
+ER,Masks,380,2,760,2.0
+ICU,Bandages,158,3,474,3.0
+Surgery,IV Kits,173,50,8650,50.0
+ER,IV Kits,304,50,15200,50.0
+Pharmacy,IV Kits,319,50,15950,50.0
+ICU,Bandages,321,3,963,3.0
+ER,Syringes,45,10,450,10.0
+Surgery,Masks,476,2,952,2.0
+Surgery,Masks,346,2,692,2.0
+ICU,IV Kits,374,50,18700,50.0
+Surgery,Syringes,210,10,2100,10.0
+ICU,Syringes,82,10,820,10.0
+ER,Gloves,138,5,690,5.0
+ER,Bandages,436,3,1308,3.0
+Pharmacy,Syringes,34,10,340,10.0
+Surgery,IV Kits,140,50,7000,50.0
+ICU,Bandages,117,3,351,3.0
+Pharmacy,IV Kits,487,50,24350,50.0
+ICU,Syringes,21,10,210,10.0
+Surgery,Bandages,53,3,159,3.0
+Surgery,IV Kits,314,50,15700,50.0
+ER,Gloves,339,5,1695,5.0
+ER,Gloves,312,5,1560,5.0
+Pharmacy,IV Kits,273,50,13650,50.0
+Surgery,Bandages,90,3,270,3.0
+Surgery,Bandages,383,3,1149,3.0
+Pharmacy,Gloves,475,5,2375,5.0
+ER,Masks,152,2,304,2.0
+Surgery,Syringes,498,10,4980,10.0
+ER,Syringes,56,10,560,10.0
+Pharmacy,Syringes,25,10,250,10.0
+Surgery,Gloves,416,5,2080,5.0
+ICU,Bandages,95,3,285,3.0
+ICU,Bandages,16,3,48,3.0
+ER,IV Kits,185,50,9250,50.0
+Pharmacy,Syringes,324,10,3240,10.0
+Surgery,Bandages,91,3,273,3.0
+Surgery,Masks,432,2,864,2.0
+Surgery,Syringes,452,10,4520,10.0
+ICU,Gloves,23,5,115,5.0
+Surgery,IV Kits,117,50,5850,50.0
+Pharmacy,Bandages,107,3,321,3.0
+Surgery,Bandages,180,3,540,3.0
+Pharmacy,Syringes,192,10,1920,10.0
+Surgery,Masks,48,2,96,2.0
+Surgery,Gloves,13,5,65,5.0
+ER,Gloves,406,5,2030,5.0
+ICU,Gloves,25,5,125,5.0
+ER,Syringes,117,10,1170,10.0
+ICU,Syringes,320,10,3200,10.0
+Surgery,Syringes,43,10,430,10.0
+ICU,IV Kits,256,50,12800,50.0
+ER,Bandages,283,3,849,3.0
+Pharmacy,IV Kits,388,50,19400,50.0
+Surgery,Masks,38,2,76,2.0
+ICU,Gloves,486,5,2430,5.0
+ICU,Bandages,245,3,735,3.0
+ER,Masks,248,2,496,2.0
+ER,Syringes,423,10,4230,10.0
+ER,Masks,398,2,796,2.0
+ER,Gloves,12,5,60,5.0
+ER,Syringes,333,10,3330,10.0
+ICU,Bandages,162,3,486,3.0
+Pharmacy,Gloves,446,5,2230,5.0
+ICU,Gloves,408,5,2040,5.0
+ER,Gloves,353,5,1765,5.0
+Pharmacy,Masks,196,2,392,2.0
+ICU,Bandages,70,3,210,3.0
+ER,IV Kits,389,50,19450,50.0
+ICU,IV Kits,71,50,3550,50.0
+ER,Syringes,162,10,1620,10.0
+Surgery,Masks,269,2,538,2.0
+Surgery,Masks,358,2,716,2.0
+Surgery,Bandages,252,3,756,3.0
+ER,Syringes,116,10,1160,10.0
+ICU,Gloves,227,5,1135,5.0
+ER,Gloves,268,5,1340,5.0
+Pharmacy,Bandages,270,3,810,3.0
+ICU,Gloves,18,5,90,5.0
+Surgery,Masks,387,2,774,2.0
+ER,Bandages,388,3,1164,3.0
+ICU,IV Kits,187,50,9350,50.0
+ICU,Gloves,225,5,1125,5.0
+Surgery,IV Kits,495,50,24750,50.0
+ER,Bandages,98,3,294,3.0
+ER,Masks,407,2,814,2.0
+ER,Syringes,276,10,2760,10.0
+ER,IV Kits,132,50,6600,50.0
+Pharmacy,Bandages,146,3,438,3.0
+Surgery,Gloves,235,5,1175,5.0
+Pharmacy,Syringes,18,10,180,10.0
+Surgery,Gloves,270,5,1350,5.0
+Surgery,IV Kits,235,50,11750,50.0
+Pharmacy,Masks,472,2,944,2.0
+ICU,IV Kits,398,50,19900,50.0
+Pharmacy,Syringes,411,10,4110,10.0
+ICU,Bandages,325,3,975,3.0
+Pharmacy,Bandages,293,3,879,3.0
+ER,Bandages,90,3,270,3.0
+ICU,Bandages,233,3,699,3.0
+ICU,Bandages,124,3,372,3.0
+ICU,IV Kits,65,50,3250,50.0
+Pharmacy,Syringes,49,10,490,10.0
+Surgery,Bandages,246,3,738,3.0
+ER,IV Kits,345,50,17250,50.0
+Pharmacy,Masks,362,2,724,2.0
+Surgery,IV Kits,313,50,15650,50.0
+ER,Bandages,372,3,1116,3.0
+ER,Gloves,190,5,950,5.0
+ICU,Masks,200,2,400,2.0
+Surgery,Masks,16,2,32,2.0
+ER,IV Kits,54,50,2700,50.0
+ICU,Gloves,40,5,200,5.0
+Surgery,Syringes,403,10,4030,10.0
+Pharmacy,IV Kits,446,50,22300,50.0
+ICU,Syringes,365,10,3650,10.0
+ICU,Bandages,486,3,1458,3.0
+Pharmacy,Syringes,233,10,2330,10.0
+ER,IV Kits,122,50,6100,50.0
+ER,Gloves,369,5,1845,5.0
+Surgery,Syringes,197,10,1970,10.0
+Pharmacy,Bandages,172,3,516,3.0
+Pharmacy,IV Kits,423,50,21150,50.0
+Surgery,Syringes,242,10,2420,10.0
+Pharmacy,Syringes,328,10,3280,10.0
+Pharmacy,Masks,344,2,688,2.0
+ICU,Bandages,486,3,1458,3.0
+ICU,Masks,413,2,826,2.0
+Pharmacy,Masks,251,2,502,2.0
+Pharmacy,IV Kits,201,50,10050,50.0
+ER,Masks,415,2,830,2.0
+ER,Syringes,383,10,3830,10.0
+ER,Syringes,129,10,1290,10.0
+Surgery,Syringes,315,10,3150,10.0
+ICU,Bandages,213,3,639,3.0
+Pharmacy,IV Kits,236,50,11800,50.0
+Pharmacy,Bandages,469,3,1407,3.0
+Surgery,Bandages,404,3,1212,3.0
+ER,IV Kits,468,50,23400,50.0
+ICU,Syringes,491,10,4910,10.0
+ICU,Syringes,294,10,2940,10.0
+Pharmacy,Gloves,108,5,540,5.0
+ER,Gloves,48,5,240,5.0
+Surgery,Bandages,166,3,498,3.0
+Surgery,Masks,297,2,594,2.0
+ICU,Masks,31,2,62,2.0
+Surgery,IV Kits,204,50,10200,50.0
+ER,Masks,449,2,898,2.0
+Pharmacy,Bandages,30,3,90,3.0
+Surgery,Bandages,452,3,1356,3.0
+Pharmacy,IV Kits,450,50,22500,50.0
+ER,IV Kits,266,50,13300,50.0
+ICU,Masks,431,2,862,2.0
+Surgery,Syringes,454,10,4540,10.0
+Surgery,Gloves,290,5,1450,5.0
+Pharmacy,Masks,283,2,566,2.0
+Surgery,Masks,217,2,434,2.0
+Surgery,Masks,439,2,878,2.0
+ER,Gloves,102,5,510,5.0
+ER,IV Kits,183,50,9150,50.0
+ICU,Masks,208,2,416,2.0
+Surgery,Bandages,457,3,1371,3.0
+Pharmacy,Bandages,33,3,99,3.0
+Pharmacy,Syringes,396,10,3960,10.0
+Pharmacy,Gloves,231,5,1155,5.0
+ICU,Gloves,391,5,1955,5.0
+Pharmacy,Masks,237,2,474,2.0
+ER,Gloves,453,5,2265,5.0
+Surgery,Bandages,126,3,378,3.0
+ICU,IV Kits,73,50,3650,50.0
+ER,Gloves,81,5,405,5.0
+ER,Syringes,487,10,4870,10.0
+Pharmacy,Syringes,375,10,3750,10.0
+Surgery,IV Kits,310,50,15500,50.0
+ER,Gloves,111,5,555,5.0
+ER,IV Kits,223,50,11150,50.0
+Surgery,Gloves,410,5,2050,5.0
+Pharmacy,Gloves,55,5,275,5.0
+Pharmacy,Masks,157,2,314,2.0
+ER,Syringes,433,10,4330,10.0
+Pharmacy,Syringes,362,10,3620,10.0
+ICU,Gloves,298,5,1490,5.0
+ER,Bandages,423,3,1269,3.0
+ER,Bandages,125,3,375,3.0
+ICU,Syringes,175,10,1750,10.0
+Surgery,Syringes,183,10,1830,10.0
+ICU,Syringes,152,10,1520,10.0
+ICU,Syringes,384,10,3840,10.0
+Pharmacy,Gloves,369,5,1845,5.0
+Surgery,Bandages,460,3,1380,3.0
+Surgery,Gloves,271,5,1355,5.0
+ER,Gloves,379,5,1895,5.0
+Pharmacy,Syringes,357,10,3570,10.0
+ICU,Masks,327,2,654,2.0
+Surgery,IV Kits,392,50,19600,50.0
+Surgery,IV Kits,93,50,4650,50.0
+Pharmacy,Masks,399,2,798,2.0
+ICU,Syringes,392,10,3920,10.0
+Surgery,Gloves,197,5,985,5.0
+ICU,IV Kits,475,50,23750,50.0
+ICU,Masks,96,2,192,2.0
+Pharmacy,Bandages,34,3,102,3.0
+ER,IV Kits,131,50,6550,50.0
+Surgery,Masks,182,2,364,2.0
+Pharmacy,Bandages,128,3,384,3.0
+ER,IV Kits,309,50,15450,50.0
+ICU,Syringes,220,10,2200,10.0
+ICU,Bandages,361,3,1083,3.0
+Pharmacy,Gloves,68,5,340,5.0
+Surgery,Masks,211,2,422,2.0
+Surgery,IV Kits,454,50,22700,50.0
+ER,Gloves,400,5,2000,5.0
+Pharmacy,Gloves,359,5,1795,5.0
+ER,Syringes,454,10,4540,10.0
+Pharmacy,Masks,302,2,604,2.0
+Pharmacy,Masks,373,2,746,2.0
+ICU,Masks,453,2,906,2.0
+Pharmacy,Syringes,186,10,1860,10.0
+Surgery,Gloves,429,5,2145,5.0
+ICU,Bandages,363,3,1089,3.0
+Pharmacy,Masks,75,2,150,2.0
+Surgery,Syringes,429,10,4290,10.0
+ICU,Syringes,252,10,2520,10.0
+Surgery,Syringes,255,10,2550,10.0
+ER,Masks,140,2,280,2.0
+ER,Syringes,49,10,490,10.0
+ER,Gloves,364,5,1820,5.0
+ICU,Masks,249,2,498,2.0
+ICU,Syringes,437,10,4370,10.0
+ICU,Syringes,384,10,3840,10.0
+ER,Bandages,431,3,1293,3.0
+ER,Gloves,327,5,1635,5.0
+ICU,Masks,390,2,780,2.0
+Surgery,Gloves,93,5,465,5.0
+ICU,Gloves,388,5,1940,5.0
+ER,Gloves,37,5,185,5.0
+ICU,IV Kits,238,50,11900,50.0
+ER,Gloves,433,5,2165,5.0
+Pharmacy,Masks,310,2,620,2.0
+Surgery,IV Kits,19,50,950,50.0
+Surgery,Syringes,102,10,1020,10.0
+ICU,Masks,359,2,718,2.0
+ER,Gloves,142,5,710,5.0
+Pharmacy,IV Kits,469,50,23450,50.0
+ER,Gloves,73,5,365,5.0
+ICU,Masks,293,2,586,2.0
+ER,IV Kits,430,50,21500,50.0
+Surgery,Bandages,213,3,639,3.0
+ER,Gloves,129,5,645,5.0
+Pharmacy,Masks,376,2,752,2.0
+Surgery,Masks,260,2,520,2.0
+ER,Masks,379,2,758,2.0
+ICU,Syringes,466,10,4660,10.0
+Surgery,Bandages,29,3,87,3.0
+ICU,Bandages,10,3,30,3.0
+Surgery,IV Kits,207,50,10350,50.0
+ER,Bandages,68,3,204,3.0
+ER,Gloves,188,5,940,5.0
+ICU,Masks,499,2,998,2.0
+Pharmacy,Bandages,251,3,753,3.0
+Pharmacy,IV Kits,308,50,15400,50.0
+ICU,Syringes,226,10,2260,10.0
+ICU,Bandages,194,3,582,3.0
+Surgery,IV Kits,187,50,9350,50.0
+Surgery,Masks,303,2,606,2.0
+Pharmacy,Bandages,317,3,951,3.0
+Pharmacy,Syringes,243,10,2430,10.0
+Pharmacy,Syringes,350,10,3500,10.0
+ER,Bandages,361,3,1083,3.0
+ICU,Bandages,95,3,285,3.0
+Surgery,Syringes,202,10,2020,10.0
+Surgery,Syringes,436,10,4360,10.0
+ICU,Syringes,475,10,4750,10.0
+ER,Syringes,145,10,1450,10.0
+Surgery,Gloves,85,5,425,5.0
+Surgery,Gloves,311,5,1555,5.0
+Pharmacy,Gloves,10,5,50,5.0
+Surgery,Bandages,313,3,939,3.0
+ER,Gloves,99,5,495,5.0
+ICU,Masks,459,2,918,2.0
+ICU,Gloves,170,5,850,5.0
+ER,Gloves,185,5,925,5.0
+ER,Gloves,254,5,1270,5.0
+ER,Gloves,468,5,2340,5.0
+Pharmacy,Syringes,390,10,3900,10.0
+ICU,Masks,111,2,222,2.0
+Surgery,Syringes,91,10,910,10.0
+ER,Gloves,288,5,1440,5.0
+Surgery,Bandages,340,3,1020,3.0
+ER,Gloves,222,5,1110,5.0
+Surgery,Gloves,85,5,425,5.0
+ICU,Bandages,412,3,1236,3.0
+Pharmacy,Bandages,482,3,1446,3.0
+ER,Gloves,233,5,1165,5.0
+ER,IV Kits,437,50,21850,50.0
+ICU,Syringes,276,10,2760,10.0
+Surgery,Syringes,459,10,4590,10.0
+ICU,Gloves,12,5,60,5.0
+ER,Syringes,337,10,3370,10.0
+Pharmacy,Syringes,463,10,4630,10.0
+Pharmacy,Bandages,230,3,690,3.0
+ICU,Gloves,21,5,105,5.0
+ER,Syringes,313,10,3130,10.0
+ER,Masks,237,2,474,2.0
+Surgery,IV Kits,441,50,22050,50.0
+Surgery,Syringes,373,10,3730,10.0
+Surgery,IV Kits,30,50,1500,50.0
+Surgery,IV Kits,345,50,17250,50.0
+Surgery,Bandages,133,3,399,3.0
+Surgery,Gloves,301,5,1505,5.0
+Surgery,IV Kits,280,50,14000,50.0
+Pharmacy,Bandages,150,3,450,3.0
+ICU,IV Kits,299,50,14950,50.0
+ICU,Bandages,461,3,1383,3.0
+Pharmacy,Bandages,61,3,183,3.0
+ICU,IV Kits,166,50,8300,50.0
+Surgery,Masks,300,2,600,2.0
+Pharmacy,Syringes,429,10,4290,10.0
+ICU,Syringes,11,10,110,10.0
+ER,Bandages,141,3,423,3.0
+ICU,Gloves,359,5,1795,5.0
+Surgery,Masks,83,2,166,2.0
+Surgery,Bandages,168,3,504,3.0
+Surgery,Gloves,435,5,2175,5.0
+ER,Syringes,449,10,4490,10.0
+Pharmacy,Masks,461,2,922,2.0
+ICU,Gloves,181,5,905,5.0
+Pharmacy,Bandages,371,3,1113,3.0
+Surgery,IV Kits,150,50,7500,50.0
+Surgery,Bandages,223,3,669,3.0
+Pharmacy,Gloves,35,5,175,5.0
+ER,Syringes,481,10,4810,10.0
+ICU,Gloves,134,5,670,5.0
+ICU,Gloves,163,5,815,5.0
+Surgery,Bandages,77,3,231,3.0
+ICU,IV Kits,109,50,5450,50.0
+Pharmacy,Syringes,354,10,3540,10.0
+ICU,IV Kits,173,50,8650,50.0
+ICU,Gloves,448,5,2240,5.0
+ICU,Bandages,184,3,552,3.0
+ER,IV Kits,117,50,5850,50.0
+ICU,Gloves,128,5,640,5.0
+ER,Gloves,159,5,795,5.0
+Pharmacy,Bandages,152,3,456,3.0
+Surgery,Masks,464,2,928,2.0
+Pharmacy,IV Kits,147,50,7350,50.0
+ER,Bandages,450,3,1350,3.0
+ICU,Gloves,267,5,1335,5.0
+Pharmacy,IV Kits,272,50,13600,50.0
+ER,Syringes,332,10,3320,10.0
+ICU,Bandages,176,3,528,3.0
+ER,Gloves,468,5,2340,5.0
+Surgery,Masks,311,2,622,2.0
+Surgery,Masks,227,2,454,2.0
+ICU,Syringes,297,10,2970,10.0
+Surgery,Bandages,45,3,135,3.0
+Pharmacy,Bandages,362,3,1086,3.0
+Pharmacy,IV Kits,82,50,4100,50.0
+Pharmacy,Gloves,388,5,1940,5.0
+ICU,Gloves,496,5,2480,5.0
+Pharmacy,Bandages,58,3,174,3.0
+Pharmacy,Syringes,453,10,4530,10.0
+ER,Masks,36,2,72,2.0
+Pharmacy,Bandages,273,3,819,3.0
+ICU,Syringes,76,10,760,10.0
+ICU,Masks,390,2,780,2.0
+ICU,IV Kits,351,50,17550,50.0
+ICU,Syringes,224,10,2240,10.0
+Pharmacy,Syringes,111,10,1110,10.0
+ER,IV Kits,363,50,18150,50.0
+Surgery,Masks,273,2,546,2.0
+ICU,Masks,451,2,902,2.0
+Pharmacy,Bandages,342,3,1026,3.0
+ER,Gloves,320,5,1600,5.0
+Pharmacy,Syringes,455,10,4550,10.0
+ICU,Gloves,64,5,320,5.0
+Pharmacy,Masks,154,2,308,2.0
+Pharmacy,Masks,145,2,290,2.0
+Pharmacy,IV Kits,153,50,7650,50.0
+ICU,Bandages,288,3,864,3.0
+Pharmacy,IV Kits,113,50,5650,50.0
+ICU,Bandages,477,3,1431,3.0
+Pharmacy,Masks,330,2,660,2.0
+ER,Bandages,93,3,279,3.0
+ICU,Syringes,465,10,4650,10.0
+Surgery,Gloves,281,5,1405,5.0
+Pharmacy,Masks,235,2,470,2.0
+ER,Masks,490,2,980,2.0
+Surgery,Syringes,246,10,2460,10.0
+ICU,Gloves,350,5,1750,5.0
+ICU,IV Kits,258,50,12900,50.0
+ER,Gloves,340,5,1700,5.0
+Surgery,Masks,199,2,398,2.0
+Surgery,Syringes,205,10,2050,10.0
+ICU,IV Kits,415,50,20750,50.0
+Surgery,Masks,110,2,220,2.0
+Pharmacy,Syringes,21,10,210,10.0
+Surgery,Gloves,51,5,255,5.0
+ICU,Syringes,438,10,4380,10.0
+Surgery,Syringes,167,10,1670,10.0
+ICU,IV Kits,345,50,17250,50.0
+Surgery,Masks,23,2,46,2.0
+ER,Bandages,172,3,516,3.0
+ICU,IV Kits,139,50,6950,50.0
+Surgery,Syringes,215,10,2150,10.0
+Pharmacy,Syringes,265,10,2650,10.0
+ICU,Gloves,459,5,2295,5.0
+ER,Bandages,319,3,957,3.0
+ER,Masks,104,2,208,2.0
+ICU,Gloves,119,5,595,5.0
+Pharmacy,Bandages,445,3,1335,3.0
+Surgery,IV Kits,434,50,21700,50.0
+ICU,Gloves,150,5,750,5.0
+ER,Syringes,401,10,4010,10.0
+ER,Syringes,461,10,4610,10.0
+ER,Masks,182,2,364,2.0
+Pharmacy,Masks,297,2,594,2.0
+Pharmacy,Masks,150,2,300,2.0
+Surgery,Masks,155,2,310,2.0
+ER,Masks,456,2,912,2.0
+ICU,Bandages,52,3,156,3.0
+ICU,Syringes,69,10,690,10.0
+Surgery,IV Kits,296,50,14800,50.0
+Surgery,Bandages,476,3,1428,3.0
+ICU,Syringes,354,10,3540,10.0
+ICU,IV Kits,187,50,9350,50.0
+ER,Gloves,480,5,2400,5.0
+Surgery,Gloves,108,5,540,5.0
+ER,Gloves,165,5,825,5.0
+ICU,IV Kits,272,50,13600,50.0
+Pharmacy,Masks,106,2,212,2.0
+Pharmacy,Masks,112,2,224,2.0
+Pharmacy,Gloves,110,5,550,5.0
+Surgery,Masks,317,2,634,2.0
+ER,Masks,429,2,858,2.0
+Pharmacy,Syringes,72,10,720,10.0
+ER,Masks,200,2,400,2.0
+ICU,Bandages,492,3,1476,3.0
+Surgery,IV Kits,101,50,5050,50.0
+ICU,Bandages,95,3,285,3.0
+ER,Syringes,71,10,710,10.0
+Surgery,Bandages,255,3,765,3.0
+ICU,Bandages,147,3,441,3.0
+Surgery,Syringes,385,10,3850,10.0
+Surgery,Bandages,74,3,222,3.0
+ER,Bandages,483,3,1449,3.0
+ICU,Bandages,222,3,666,3.0
+ER,Syringes,494,10,4940,10.0
+ER,Masks,474,2,948,2.0
+Surgery,Gloves,197,5,985,5.0
+Surgery,Bandages,317,3,951,3.0
+Pharmacy,Bandages,291,3,873,3.0
+ICU,Masks,43,2,86,2.0
+Pharmacy,Masks,91,2,182,2.0
+Pharmacy,IV Kits,242,50,12100,50.0
+ER,Masks,422,2,844,2.0
+ICU,Syringes,30,10,300,10.0
+ICU,Bandages,122,3,366,3.0
+ER,Gloves,129,5,645,5.0
+ER,Gloves,138,5,690,5.0
+ICU,Masks,57,2,114,2.0
+ER,Gloves,19,5,95,5.0
+ICU,Syringes,453,10,4530,10.0
+Pharmacy,Bandages,293,3,879,3.0
+Surgery,Syringes,273,10,2730,10.0
+Surgery,Gloves,88,5,440,5.0
+ER,Masks,352,2,704,2.0
+Pharmacy,Bandages,476,3,1428,3.0
+ER,Masks,458,2,916,2.0
+Surgery,Bandages,17,3,51,3.0
+ER,Gloves,96,5,480,5.0
